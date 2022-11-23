@@ -1,0 +1,10 @@
+user_number=int(input("enter your number"))
+a=1
+while a<=user_number:
+    print(a)
+    a+=1
+
+
+
+
+
